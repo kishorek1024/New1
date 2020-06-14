@@ -13,7 +13,7 @@ public class Call {
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://facebook.com");
 		driver.manage().window().maximize();
-		
+		System.out.println("This is Sample");
 		driver.findElement(By.id("email")).sendKeys("Kishore");
 		
 
