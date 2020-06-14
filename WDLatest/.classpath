@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/WD6/Jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/POI/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
